@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pragnesh Shrimal -- iampragnesh05@gmail.com -- ipragnesh05
 
 # THANKS
 
